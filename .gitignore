@@ -1,0 +1,5 @@
+student/scheduler/bin
+student/scheduler/javadocs
+*.jar
+*.pdf
+*.swp
