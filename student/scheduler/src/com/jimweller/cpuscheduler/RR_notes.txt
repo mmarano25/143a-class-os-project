@@ -1,0 +1,1 @@
+use a function to retrive next job number, it is a circular buffer type thing loops around 1, 2, 3, 1, 2. would need member variable, but not bad. require to pull from list of currently rubning processes, must update list based on whats avaiable and what’s done 
